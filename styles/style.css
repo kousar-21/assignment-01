@@ -311,3 +311,24 @@ nav{
 .done-button{
     margin-top: 25px;
 }
+
+.foot{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.foot-hr{
+    width: 1000px;
+}
+
+.foot-img{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.foot-img-1{
+    margin-right: 10px;
+}
+
+.foot-img-2{
+    margin-right: 10px;
+}
