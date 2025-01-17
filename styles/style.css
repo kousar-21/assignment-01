@@ -204,3 +204,56 @@ nav{
 .younus-position{
     margin-top: 0;
 }
+
+/* News part */
+
+.section-news{
+    margin: 50px 100px;
+}
+
+.div-news{
+    margin-top: 32px;
+}
+.date{
+    margin-right: 10px;
+}
+
+.satelite{
+    margin: 48px 32px 48px 48px;
+}
+
+.satelite-para{
+    margin: 56px 48px 56px 0;
+}
+
+.satelite-2{
+    margin: 48px 48px 48px 32px;
+}
+
+.satelite-para-2{
+    margin: 56px 0 56px 48px;
+}
+
+.div-news-first{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+    background-color: rgba(14, 14, 14, 0.15);
+    border-radius: 7px;
+}
+
+.div-class-second{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+    background-color: rgba(14, 14, 14, 0.15);
+    border-radius: 7px;
+}
+
+.btn-news{
+    color: #FFFFFF;
+    padding: 13px 26px;
+    background-color: #006A50;
+    border-radius: 5px;
+    border: none;
+}
