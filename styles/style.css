@@ -16,7 +16,7 @@
 }
 
 .title-h3{
-    font-weight: 700;
+    font-weight: 800;
     font-size: 20px;
     color: rgba(14, 14, 14, 0.8);
 }
@@ -120,4 +120,87 @@ nav{
 }
 .div-h-p{
     margin: 15px;
+}
+
+/* section vision */
+
+.section-vision{
+    margin: 50px 100px;
+}
+
+.vision-eco{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+/* vision eco shared styles */
+.eco{
+    max-width: 410px;
+}
+
+.eco-images{
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.eco-div{
+    margin: 24px 32px 24px 32px;
+}
+
+.eco-button{
+    margin-left: 32px;
+    margin-bottom: 32px;
+    padding: 11px 20px;
+    border-radius: 7px;
+    border: none;
+}
+
+
+/* 2nd din part in vision */
+.digital-part{
+    border-radius: 10px;
+    background-color: rgba(84, 144, 245, 0.2);
+}
+
+.green-part{
+    background-color: #C6E4D6;
+    border-radius: 10px;
+}
+
+.modern-part{
+    border-radius: 10px;
+    background-color: #F7EBCF;
+}
+
+.digital-button{
+    background-color: #5490F5;
+    color: #FFFFFF;
+}
+
+.green-button{
+    background-color: #09A15C;
+    color: #FFFFFF;
+}
+
+.modern-button{
+    background-color: #FFC239;
+    color: #FFFFFF;
+}
+
+/* younus part */
+
+.younus{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
+
+.younus-name{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.younus-position{
+    margin-top: 0;
 }
